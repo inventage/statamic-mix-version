@@ -1,6 +1,6 @@
 name: Mix
-version: "1.0"
+version: "1.1"
 description: Allows you to use Laravel Mix's version functionality with Statamic. Inspired by AssetManifest, but with the ability to select your own asset name.
-url: https://github.com/benfurfie/statamic-mix-version
+url: https://github.com/inventage/statamic-mix-version/tree/feature/various-improvements
 developer: Ben Furfie
 developer_url: https://www.benfurfie.co.uk
